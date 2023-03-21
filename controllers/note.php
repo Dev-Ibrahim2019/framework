@@ -1,7 +1,7 @@
 <?php 
 
 $config = require 'config.php';
-$db = new Database($config['database'], 'root', 12009121220191406);
+$db = new Database($config['database']);
 
 $heading = "Notes";
 $currentUserID = 1;
