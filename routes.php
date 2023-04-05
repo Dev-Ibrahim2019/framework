@@ -8,3 +8,4 @@ return [
   '/notes/create' => 'controllers/notes/create.php',
   '/contact' => 'controllers/contact.php'
 ];
+
