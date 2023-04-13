@@ -8,7 +8,7 @@ $container = new Container();
 
 $container->bind('Core\Database', function () {
   $config = require base_path('config.php');
-  return new Database($config['database'], 'root', 12009121220191406);
+  return new Database($config['database']);
 });
 
 App::setContainer($container);
