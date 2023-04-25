@@ -2,7 +2,7 @@
 <?php require base_path('views/partials/nav.php'); ?>
 
 <main>
-    <div class="flex min-h-full items-center justify-center px-4 py-12 sm:px-6 lg:px-8">
+  <div class="flex min-h-full items-center justify-center px-4 py-12 sm:px-6 lg:px-8">
     <div class="w-full max-w-md space-y-8">
       <div>
         <img class="mx-auto h-12 w-auto" src="https://tailwindui.com/img/logos/mark.svg?color=indigo&shade=600" alt="Your Company">
