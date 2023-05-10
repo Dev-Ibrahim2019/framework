@@ -18,4 +18,4 @@ if (!$signedIn) {
   )->throw();
 } 
 
-redirect($router->previousUrl()); 
+redirect(); 
