@@ -1,0 +1,17 @@
+{
+    "name": "acer/demo",
+    "authors": [
+        {
+            "name": "Ibrahim Al-Ashqar",
+            "email": "eng.ibrahim20191406@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/", 
+            "Http\\": "Http/"
+        }
+    }
+}
+    
